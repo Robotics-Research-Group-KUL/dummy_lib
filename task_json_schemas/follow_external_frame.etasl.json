@@ -5,7 +5,7 @@
     "from-dummy_lib-version-0.1.0":{
       "const":true,
       "type":"boolean",
-      "description":"Library dummy_lib version 0.1.0.\n Set to true to indicate that task specification comes from the library above. \n Library description: Library with basic task specifications that may be needed in most applications\nAuthors: Santiago Iregui (KU Leuven), Erwin Aertbeliën (KU Leuven), Federico Ulloa (KU Leuven)"
+      "description":"Library dummy_lib version 0.1.0.\n Set to true to indicate that task specification comes from the library above. \n Library description: Library with basic task specifications that may be needed in most applications\nAuthors: Santiago Iregui (KU Leuven)"
     }
   },
   "$schema":"http://json-schema.org/draft-06/schema#",
